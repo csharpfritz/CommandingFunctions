@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Sample.IntegratedFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7057",
+      "launchBrowser": false
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Sample.IsolatedFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7290",
+      "launchBrowser": false
+    }
+  }
+}
